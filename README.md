@@ -1,10 +1,10 @@
 <div align="center">
 
-# QMPlay2-AppImage 🐧
+# QMPlay2-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/QMPlay2-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/QMPlay2-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/QMPlay2-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/QMPlay2-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/QMPlay2-AppImage)](https://github.com/pkgforge-dev/QMPlay2-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/QMPlay2-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/QMPlay2-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/QMPlay2-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/QMPlay2-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/QMPlay2-AppImage-Enhanced)](https://github.com/pkgforge-dev/QMPlay2-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://github.com/zaps166/QMPlay2/blob/master/src/gui/Icons/hicolor/256x256/apps/QMPlay2.png" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/QMPlay2-AppImage/releases/latest) | [Click here](https://github.com/zaps166/QMPlay2) |
+| [Click here](https://github.com/pkgforge-dev/QMPlay2-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/zaps166/QMPlay2) |
 
 </div>
 
