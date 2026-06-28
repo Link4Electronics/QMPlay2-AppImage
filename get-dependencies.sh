@@ -19,13 +19,7 @@ echo "---------------------------------------------------------------"
 get-debloated-pkgs --add-common --prefer-nano ffmpeg-mini
 
 # Comment this out if you need an AUR package
-# make-aur-package
+make-aur-package "qmplay2-git"
+pacman -Q "qmplay2-git" | awk '{print $2; exit}' > ~/version
 
 # If the application needs to be manually built that has to be done down here
-if [ "${DEVEL_RELEASE-}" = 1 ]; then
-	package=qmplay2-git
-else
-	package=qmplay2
-fi
-make-aur-package "$package"
-pacman -Q "$package" | awk '{print $2; exit}' > ~/version
