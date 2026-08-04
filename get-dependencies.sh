@@ -19,6 +19,6 @@ echo "---------------------------------------------------------------"
 get-debloated-pkgs --add-common --prefer-nano ffmpeg-mini
 
 # Comment this out if you need an AUR package
-make-aur-package "qmplay2-git"
+make-aur-package qmplay2-git
 
 # If the application needs to be manually built that has to be done down here
